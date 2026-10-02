@@ -7,6 +7,7 @@ A list of awesome things related to Termux
 - [Termux Float](https://play.google.com/store/apps/details?id=com.termux.window) [Termux Float - Github](https://github.com/termux/termux-float) A Termux add-on app to show the terminal in a floating terminal window.
 - [Termux Widget](https://play.google.com/store/apps/details?id=com.termux.widget) The Termux:Widget add-on provides a widget with shortcuts to run scripts placed in the $HOME/.shortcuts/ folder, allowing quick access to frequently used commands without typing
 - [Termux Tasker](https://play.google.com/store/apps/details?id=com.termux.tasker) A Termux add-on app allowing Termux programs to be executed from Tasker.
+- [OpenCode for Android](https://github.com/Zar-Manah/opencode-android) - Standalone native Android terminal and Debian environment bundled with an autonomous AI coding agent, cognitive memory daemon, and phone control tools.
 - https://github.com/moverest/termux-smses A simple fish script to send sms interactively with termux.
 
 ## Remote Connection Tips
